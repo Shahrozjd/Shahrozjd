@@ -1,5 +1,5 @@
 # Hi there, I'm Shahroz 👋<br>
-![App dev banner](https://user-images.githubusercontent.com/50264214/91228713-2a320380-e742-11ea-9db1-209fb1e2326b.png)
+![App dev banner](https://user-images.githubusercontent.com/50264214/91230225-9150b780-e744-11ea-99cf-366f81ac8351.png)
 
 
 
