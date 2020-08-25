@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there, I'm Shahroz 👋<br>
+![App dev banner](https://user-images.githubusercontent.com/50264214/91228369-8f392980-e741-11ea-95f6-34a25c90fe84.png)
+
 
 <!--
 **Shahrozjd/Shahrozjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
