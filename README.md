@@ -1,13 +1,13 @@
 # Hi there, I'm Shahroz 👋<br>
 <!--![App dev banner](https://user-images.githubusercontent.com/50264214/91230225-9150b780-e744-11ea-99cf-366f81ac8351.png)<br><br>-->
-Hi, I am Shahroz. I am a Computer Science Professional and Mobile App developer using Flutter and Native tech with 2+ years of experience. In every project I have worked on my goal is to create scalable and reliable application. UI/UX is one of the most important things in mobile apps. That's why I am very attentive to design layout and always deliver pixel-perfect layouts tested on various devices.
+Hi, I am Shahroz. I am a Computer Science Professional and Mobile App developer using Flutter and Native tech with 2+ years of experience. In every project I have worked on my goal is to create scalable and reliable application. UI/UX is one of the most important things in mobile apps. That's why I am very attentive to design layout and always deliver pixel-perfect layouts tested on various devices.<br><br>
 I have the opportunity to work on some great and cool projects which you can check on my portfolio and Github. I am always looking to expand my skills and grow professionally. My main focus is Mobile development with an emphasis on Flutter(Dart), React Native, Android(JAVA) with frontend and backend, however, I have also experience in Python, Django, and C++.
 .<br><br>
 
-My Links: 
-Medium: https://medium.com/@shahrozjaved
-StackOverflow: https://stackoverflow.com/users/11761758/shahroz-javed
-Portfolio: https://www.velcrof.com/portfolio-1
+My Links:<br>
+Medium: https://medium.com/@shahrozjaved<br>
+StackOverflow: https://stackoverflow.com/users/11761758/shahroz-javed<br>
+Portfolio: https://www.velcrof.com/portfolio-1<br>
 
 <!--
 **Shahrozjd/Shahrozjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
